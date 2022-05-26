@@ -1,0 +1,27 @@
+
+http://www.gwicks.net/dictionaries.htm
+
+ENGLISH:
+	engmix.zip || ENGLISH - 84,000 words
+	english3.zip || ENGLISH - 194,000 words
+	english2.zip || UK ENGLISH - 65,000 words
+	ukenglish.zip || UK ENGLISH - 82,000 words
+	usa.zip || USA ENGLISH - 61,000 words
+	usa2.zip || USA ENGLISH 77,000 words
+	
+European:
+	dansk.zip || DANISH - 23,000 words
+	nederlands.zip || DUTCH - 52,000 words
+	nederlands2.zip || DUTCH - 70,000 words
+	nederlands3.zip || DUTCH - 180,000 words
+	francais.zip || FRENCH - 208,000 words
+	deutsch.zip || GERMAN - 165,000 words
+	italiano.zip || ITALIAN - 83,000 words
+	norsk.zip || NORWEGIAN - 61,000 words
+	espanol.zip || SPANISH - 174,000 words
+	swiss.zip || SWISS GERMAN - 165,000 words
+	
+	
+	
+names.txt
+https://www.usna.edu/Users/cs/roche/courses/s15si335/proj1/files.php%3Ff=names.txt.html
